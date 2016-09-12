@@ -1,0 +1,209 @@
+(dp0
+S'dim_id_2'
+p1
+cnumpy.core.multiarray
+_reconstruct
+p2
+(cnumpy
+ndarray
+p3
+(I0
+tp4
+S'b'
+p5
+tp6
+Rp7
+(I1
+(L2L
+tp8
+cnumpy
+dtype
+p9
+(S'O8'
+p10
+I0
+I1
+tp11
+Rp12
+(I3
+S'|'
+p13
+NNNI-1
+I-1
+I63
+tp14
+bI00
+(lp15
+S'Transactions'
+p16
+aS''
+p17
+atp18
+bsS'dim_id_1'
+p19
+g2
+(g3
+(I0
+tp20
+g5
+tp21
+Rp22
+(I1
+(L2L
+tp23
+g12
+I00
+(lp24
+S'Institutional Group'
+p25
+ag17
+atp26
+bsS'dim_item_id_1'
+p27
+g2
+(g3
+(I0
+tp28
+g5
+tp29
+Rp30
+(I1
+(L6L
+tp31
+g12
+I00
+(lp32
+S'Long-term insurance'
+p33
+aS'General insurance'
+p34
+aS'Self-administered pension funds'
+p35
+aS'Investment trusts'
+p36
+aS'Unit trusts and property unit trusts'
+p37
+ag17
+atp38
+bsS'dim_item_id_2'
+p39
+g2
+(g3
+(I0
+tp40
+g5
+tp41
+Rp42
+(I1
+(L53L
+tp43
+g12
+I00
+(lp44
+S'Acquisitions of longer-term assets'
+p45
+aS'Acquisitions of UK public sector securities'
+p46
+aS'Acquisitions of UK government securities denominated in sterling'
+p47
+aS'Acquisitions of UK government securities denominated in sterling - index linked'
+p48
+aS'Acquisitions of UK government securities denominated in sterling - Other'
+p49
+aS'Acquisitions of UK government securities denominated in foreign currency'
+p50
+aS'Acquisitions of UK local authority investments'
+p51
+aS'Acquisitions of Other UK public sector investments'
+p52
+aS'Acquisitions of Corporate securities'
+p53
+aS'Acquisitions of UK corporate bonds'
+p54
+aS'Acquisitions of UK corporate bonds - sterling'
+p55
+aS'Acquisitions of UK corporate bonds - foreign currency'
+p56
+aS'Acquisitions of UK ordinary shares'
+p57
+aS'Acquisitions of UK preference shares'
+p58
+aS'Acquisitions of Overseas corporate securities'
+p59
+aS'Acquisitions of Overseas corporate securities - bonds'
+p60
+aS'Acquisitions of Overseas corporate securities - ordinary shares'
+p61
+aS'Acquisitions of Overseas corporate securities - preference shares'
+p62
+aS'Acquisitions of mutual fund investments'
+p63
+aS'Acquisitions of mutual fund investments - UK'
+p64
+aS'Acquisitions of mutual fund investments - overseas'
+p65
+aS'Acquisitions of other longer-term assets'
+p66
+aS'Acquistions of overseas government, provincial and municipal securities'
+p67
+aS'Acquisitions of fixed assets'
+p68
+aS'Acquisitions of fixed assets - UK'
+p69
+aS'Acquisitions of fixed assets - overseas'
+p70
+aS'Disposals of longer-term assets'
+p71
+aS'Disposals of UK public sector securities'
+p72
+aS'Disposals of UK government securities denominated in sterling'
+p73
+aS'Disposals of UK government securities denominated in sterling - index linked'
+p74
+aS'Disposals of UK government securities denominated in sterling - Other'
+p75
+aS'Disposals of UK government securities denominated in foreign currency'
+p76
+aS'Disposals of UK local authority investments'
+p77
+aS'Disposals of Other UK public sector investments'
+p78
+aS'Disposals of Corporate securities'
+p79
+aS'Disposals of UK corporate bonds'
+p80
+aS'Disposals of UK corporate bonds - sterling'
+p81
+aS'Disposals of UK corporate bonds - foreign currency'
+p82
+aS'Disposals of UK ordinary shares'
+p83
+aS'Disposals of UK preference shares'
+p84
+aS'Disposals of Overseas corporate securities'
+p85
+aS'Disposals of Overseas corporate securities - bonds'
+p86
+aS'Disposals of Overseas corporate securities - ordinary shares'
+p87
+aS'Disposals of Overseas corporate securities - preference shares'
+p88
+aS'Disposals of mutual fund investments'
+p89
+aS'Disposals of mutual fund investments - UK'
+p90
+aS'Disposals of mutual fund investments - overseas'
+p91
+aS'Disposals of other longer-term assets'
+p92
+aS'Disposals of overseas government, provincial and municipal securities'
+p93
+aS'Disposals of fixed assets'
+p94
+aS'Disposals of fixed assets - UK'
+p95
+aS'Disposals of fixed assets - overseas'
+p96
+ag17
+atp97
+bs.

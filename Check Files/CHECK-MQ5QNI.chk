@@ -1,0 +1,173 @@
+(dp0
+S'dim_id_2'
+p1
+cnumpy.core.multiarray
+_reconstruct
+p2
+(cnumpy
+ndarray
+p3
+(I0
+tp4
+S'b'
+p5
+tp6
+Rp7
+(I1
+(L2L
+tp8
+cnumpy
+dtype
+p9
+(S'O8'
+p10
+I0
+I1
+tp11
+Rp12
+(I3
+S'|'
+p13
+NNNI-1
+I-1
+I63
+tp14
+bI00
+(lp15
+S'Label'
+p16
+aS''
+p17
+atp18
+bsS'dim_id_1'
+p19
+g2
+(g3
+(I0
+tp20
+g5
+tp21
+Rp22
+(I1
+(L2L
+tp23
+g12
+I00
+(lp24
+S'Institutional Group'
+p25
+ag17
+atp26
+bsS'dim_item_id_1'
+p27
+g2
+(g3
+(I0
+tp28
+g5
+tp29
+Rp30
+(I1
+(L6L
+tp31
+g12
+I00
+(lp32
+S'Long-term insurance'
+p33
+aS'General insurance'
+p34
+aS'Self-administered pension funds'
+p35
+aS'Investment Trusts'
+p36
+aS'Unit trusts and property unit trusts'
+p37
+ag17
+atp38
+bsS'dim_item_id_2'
+p39
+g2
+(g3
+(I0
+tp40
+g5
+tp41
+Rp42
+(I1
+(L35L
+tp43
+g12
+I00
+(lp44
+S'Total Assets'
+p45
+aS'UK Public Sector Securities'
+p46
+aS'UK government securities denominated in sterling'
+p47
+aS'UK government securities denominated in sterling - index linked'
+p48
+aS'UK government securities denominated in sterling - Other'
+p49
+aS'UK government securities denominated in foreign currency'
+p50
+aS'UK local authority investments'
+p51
+aS'Other UK public sector investments'
+p52
+aS'Corporate Securities'
+p53
+aS'UK corporate bonds'
+p54
+aS'UK corporate bonds - sterling'
+p55
+aS'UK corporate bonds - foreign currency'
+p56
+aS'UK ordinary shares'
+p57
+aS'UK preference shares'
+p58
+aS'Overseas corporate securities'
+p59
+aS'Overseas corporate securities - bonds'
+p60
+aS'Overseas corporate securities - ordinary shares'
+p61
+aS'Overseas corporate securities - preference shares'
+p62
+aS'Mutual fund investments'
+p63
+aS'Cash'
+p64
+aS'Balances with banks and building societies in the UK'
+p65
+aS'Balances with banks and building societies in the UK - Sterling'
+p66
+aS'Balances with banks and building societies in the UK - Foreign currency'
+p67
+aS'Balances with overseas banks'
+p68
+aS'Other liquid deposits'
+p69
+aS'Certificates of deposit issued by banks and building societies in the UK'
+p70
+aS'Money market instruments issued by HM Treasury'
+p71
+aS'UK local authority debt'
+p72
+aS'Commercial paper issued by UK companies'
+p73
+aS'Other UK money market instruments'
+p74
+aS'Money market instruments issued by non-resident businesses'
+p75
+aS'Other short-term assets not elsewhere classified'
+p76
+aS'Balances due from stockbrokers and securities dealers'
+p77
+aS'Net transactions in derivative contracts with UK and overseas counterparties'
+p78
+ag17
+atp79
+bs.

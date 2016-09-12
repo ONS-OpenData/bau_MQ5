@@ -1,0 +1,143 @@
+(dp0
+S'dim_id_2'
+p1
+cnumpy.core.multiarray
+_reconstruct
+p2
+(cnumpy
+ndarray
+p3
+(I0
+tp4
+S'b'
+p5
+tp6
+Rp7
+(I1
+(L2L
+tp8
+cnumpy
+dtype
+p9
+(S'O8'
+p10
+I0
+I1
+tp11
+Rp12
+(I3
+S'|'
+p13
+NNNI-1
+I-1
+I63
+tp14
+bI00
+(lp15
+S'Financial'
+p16
+aS''
+p17
+atp18
+bsS'dim_id_1'
+p19
+g2
+(g3
+(I0
+tp20
+g5
+tp21
+Rp22
+(I1
+(L2L
+tp23
+g12
+I00
+(lp24
+S'Institutional Group'
+p25
+ag17
+atp26
+bsS'dim_item_id_1'
+p27
+g2
+(g3
+(I0
+tp28
+g5
+tp29
+Rp30
+(I1
+(L6L
+tp31
+g12
+I00
+(lp32
+S'Long-term insurance'
+p33
+aS'General insurance'
+p34
+aS'Self-administered pension funds'
+p35
+aS'Investment trusts'
+p36
+aS'Unit trusts and property unit trusts'
+p37
+ag17
+atp38
+bsS'dim_item_id_2'
+p39
+g2
+(g3
+(I0
+tp40
+g5
+tp41
+Rp42
+(I1
+(L20L
+tp43
+g12
+I00
+(lp44
+S'Short term asset holdings'
+p45
+aS'Cash'
+p46
+aS'Balances with banks and building societies in the UK'
+p47
+aS'Balances with banks and building societies in the UK - Sterling'
+p48
+aS'Balances with banks and building societies in the UK - Foreign currency'
+p49
+aS'Balances with overseas banks'
+p50
+aS'Other liquid deposits'
+p51
+aS'Certificates of deposit issued by banks and building societies in the UK'
+p52
+aS'Money market instruments issued by HM Treasury'
+p53
+aS'UK local authority debt'
+p54
+aS'Commercial paper issued by UK companies'
+p55
+aS'Other UK money market instruments'
+p56
+aS'Money market instruments issued by non-resident businesses'
+p57
+aS'Other short-term assets not elsewhere classified'
+p58
+aS'Balances due from stockbrokers and securities dealers'
+p59
+aS'Borrowing'
+p60
+aS'Borrowing from banks and building societies in the UK'
+p61
+aS'Other UK borrowing'
+p62
+aS'Overseas borrowing'
+p63
+ag17
+atp64
+bs.
