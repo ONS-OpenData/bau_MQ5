@@ -16,6 +16,6 @@ The MQ5 source data consists of three spreadhseets. Each has one tab of data and
 
 ## Number of Quarters
 
-You need to add the number of quarters to be extrated from the spreadsheets. These quarers MUST START in column C of the 1st tab(s). We cant do this automatically as MQ5 source spreadsheets sometimes supply empty columns for previous years.
+You need to add the number of quarters to be extrated from the spreadsheets. These quarters MUST START in column C of the 1st tab(s). We cant do this automatically as MQ5 source spreadsheets sometimes supply empty columns for previous years.
 
 ### IMPORTANT - if you are supplied with empty columns you MUST delete them. For the script to run the columns of data must start in column C and must have data in them.
