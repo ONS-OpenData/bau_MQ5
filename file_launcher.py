@@ -30,7 +30,7 @@ quarter_count = int(quarter_count)
 files = [x for x in os.listdir('.') if os.path.isfile(x)]
 files = [x for x in files if '.xls' in x or '.xlsx' in x]
 
-# And make sure we dont count preview excels, ouroboros etc
+# And make sure we dont count preview excels
 files = [x for x in files if 'preview' not in x]
 
 for f in files:
@@ -86,7 +86,7 @@ for f in files:
         addme = (lookup_file.ix[i, 'data_marking'],)
         lookup_items = lookup_items + addme
         
-    # Iterate the obs file, each lookup_item filling 5 consecative rows
+    # Iterate the obs file, each lookup_item filling x consecative rows
     obs_file = pd.read_csv(f, dtype=object)
     count = 0   
     for i, row in obs_file[:-1].iterrows():
